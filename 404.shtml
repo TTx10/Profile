@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 - Trang không tồn tại</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        .container {
+            margin-top: 100px;
+        }
+        h1 {
+            font-size: 36px;
+        }
+        img {
+            width: 300px;
+            height: 300px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Xin lỗi, trang này đang gặp xíu lỗi</h1>
+        <p>Vui lòng quay lại hoặc thử lại sau.</p>
+        <img src="https://img.freepik.com/premium-vector/cute-worker-maintenance-illustration-goat-animal-flat-cartoon-style-icon-premium-vector-logo_451085-648.jpg" alt="">
+    </div>
+</body>
+</html>
